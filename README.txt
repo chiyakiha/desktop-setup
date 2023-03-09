@@ -8,3 +8,7 @@ macos
 -> koekeishiya
  --> yabai
  --> skhd
+ 
+ windows
+ -> microsoft
+ --> powertoys
