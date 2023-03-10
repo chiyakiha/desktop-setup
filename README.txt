@@ -17,4 +17,4 @@ intellij
 --> one dark (5.7.4)
 --> gerry theme (2023.1.21)
 -> plugin
-ideavim (2.1.0)
+--> ideavim (2.1.0)
